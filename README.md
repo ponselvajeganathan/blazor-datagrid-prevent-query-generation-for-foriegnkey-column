@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to prevent query generation for a foreign-key column in the Syncfusion Blazor DataGrid when foreign-key values are retrieved from a remote data source. The implementation uses an OData V4 service together with a Blazor DataGrid application to show how foreign-key data can be displayed without generating additional queries for the corresponding foreign-key column. This approach helps improve performance by reducing unnecessary network requests and minimizing query overhead when working with remote data sources. The sample is useful for applications that consume OData services and display relational data through foreign-key columns in a DataGrid.
+This sample demonstrates how to prevent query generation for a foreign-key column in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) when foreign-key values are retrieved from a remote data source. The implementation uses an OData V4 service together with a Blazor DataGrid application to show how foreign-key data can be displayed without generating additional queries for the corresponding foreign-key column. This approach helps improve performance by reducing unnecessary network requests and minimizing query overhead when working with remote data sources. The sample is useful for applications that consume OData services and display relational data through foreign-key columns in a DataGrid.
 
 ## Key Features
 
